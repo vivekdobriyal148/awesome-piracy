@@ -710,6 +710,7 @@ premium services
 - [LookMovie](https://lookmovie.ag/) Unique design, HD server, very nice speeds (offers auto quality)
 - [AZMovies](https://azmovies.xyz/) Unique design, HD server with additional hosts, also on Reddit
 - [Streamlord](http://www.streamlord.com/) Unique design, HD server (subtitles)
+- [Free Streaming sites](https://www.steptosmart.com/) free streaming websites
 - [FlixGo](https://flixgo.net/) Unique design, HD server, very nice speeds
 - [Solarmovie](https://solarmoviez.ru/solar.html) Basic streaming site layout, HD server with additional hosts, Popular Site
 - [HDFlix](http://hdflix.net/) Basic streaming site layout, HD server with additional hosts
